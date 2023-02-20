@@ -18,7 +18,7 @@
 
 - :computer: I’m work as a front-end developer.
 
-- :seedling: I have 1 year experience in frontend development, including basic experience
+- 🔥 I have 1 year experience in frontend development, including basic experience
 developments at the university.
 
 - :man_student: Graduated from the Orenburg State University with a degree in Information Systems and Technologies with an average score of 4.64.
@@ -50,4 +50,4 @@ world of frontend development.
 
 ---
 
-### :writing_hand: My resume : [Resume](https://drive.google.com/file/d/1VHbp5F-8gALX0gEHXl_aj95lopxOnhuj/view?usp=sharing)
+### :writing_hand: My resume : [Resume](https://drive.google.com/file/d/1fgJMv87ST7YcqTj7ddmgeaa95EDjUbXj/view?usp=sharing)
