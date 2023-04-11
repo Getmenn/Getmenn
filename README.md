@@ -51,4 +51,4 @@ world of frontend development.
 
 ---
 
-### :writing_hand: My resume : [Resume](https://drive.google.com/file/d/1iL3-A9YKhj3YaxYQs0P5Obj9pdTPrcaB/view?usp=sharing)
+### :writing_hand: My resume : [Resume](https://drive.google.com/file/d/1-XbEONMZy8jUy_KFRnLM0ZgxY1z25qFh/view?usp=sharing)
