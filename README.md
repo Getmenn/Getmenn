@@ -51,4 +51,19 @@ world of frontend development.
 
 ---
 
+### ✔️ My projects : 
+["Bicycle theft monitoring service"](https://github.com/Getmenn/bike-tracking) | (Personal project)
+
+["Book Search"](https://github.com/Getmenn/Book-search) | (Personal project)
+
+["Game Fool"](https://github.com/Getmenn/foolGame) | (Personal project)
+
+["Certificate Generator"](https://cert.skroy.ru) | (Internship project) 
+
+---
+
 ### :writing_hand: My resume : [Resume](https://drive.google.com/file/d/1-XbEONMZy8jUy_KFRnLM0ZgxY1z25qFh/view?usp=sharing)
+
+
+
+
