@@ -18,8 +18,7 @@
 
 - :computer: I’m work as a front-end developer.
 
-- 🔥 I have 1 year experience in frontend development, including basic experience
-developments at the university.
+- 🔥 I have 1.5 year commercial experience in frontend development.
 
 - :man_student: Graduated from the Orenburg State University with a degree in Information Systems and Technologies with an average score of 4.64.
 
@@ -34,6 +33,7 @@ world of frontend development.
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="Next" alt="Next" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
@@ -45,6 +45,8 @@ world of frontend development.
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
+and more other
+
 ---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Getmenn&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
@@ -52,6 +54,18 @@ world of frontend development.
 ---
 
 ### ✔️ My projects : 
+
+#### New:
+
+["Learning project"](https://github.com/Getmenn/production-project) | (Personal | Learning project)
+
+["Clicktoguide"](https://clicktoguide.com/) | (Freelancing project)
+
+["Сhery"](https://www.chery.ru/) | (Freelancing project (small participation))
+
+
+#### Old projects:
+
 ["Bicycle theft monitoring service"](https://github.com/Getmenn/bike-tracking) | (Personal project)
 
 ["Book Search"](https://github.com/Getmenn/Book-search) | (Personal project)
@@ -62,7 +76,7 @@ world of frontend development.
 
 ---
 
-### :writing_hand: My resume : [Resume](https://drive.google.com/file/d/1-XbEONMZy8jUy_KFRnLM0ZgxY1z25qFh/view?usp=sharing)
+### :writing_hand: My resume : [Resume](https://drive.google.com/file/d/1Am-hnPxn13KU5Y8twCcGSlnJJJ7cEube/view?usp=sharing)
 
 
 
