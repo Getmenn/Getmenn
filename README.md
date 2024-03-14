@@ -18,7 +18,7 @@
 
 - :computer: I’m work as a front-end developer.
 
-- 🔥 I have 1.5 year commercial experience in frontend development.
+- 🔥 I have more 1.5 year commercial experience in frontend development.
 
 - :man_student: Graduated from the Orenburg State University with a degree in Information Systems and Technologies with an average score of 4.64.
 
