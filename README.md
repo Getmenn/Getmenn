@@ -66,9 +66,9 @@ and more other
 
 #### Old projects:
 
-["Bicycle theft monitoring service"](https://github.com/Getmenn/bike-tracking) | (Personal project)
+["Restaurant"](https://github.com/Getmenn/APPTRIX) | (Test project)
 
-["Book Search"](https://github.com/Getmenn/Book-search) | (Personal project)
+["Three tasks"](https://github.com/Getmenn/three-tasks) | (Test project)
 
 ["Game Fool"](https://github.com/Getmenn/foolGame) | (Personal project)
 
