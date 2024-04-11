@@ -75,8 +75,9 @@ and more other
 ["Certificate Generator"](https://cert.skroy.ru) | (Internship project) 
 
 ---
-
+<!---
 ### :writing_hand: My resume : [Resume](https://drive.google.com/file/d/1map1SOfctJz2PF4TOLtLiXBRFfBIieT5/view?usp=sharing)
+-->
 
 
 
