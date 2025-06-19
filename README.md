@@ -18,7 +18,7 @@
 
 - :computer: I’m work as a front-end developer.
 
-- 🔥 I have more 2 year commercial experience in frontend development.
+- 🔥 I have more 3 year commercial experience in frontend development.
 
 - :man_student: Graduated from the Orenburg State University with a degree in Information Systems and Technologies with an average score of 4.64.
 
@@ -40,7 +40,9 @@ world of frontend development.
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" **alt="TypeScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/antdesign/antdesign-original.svg" title="antdesign" alt="antdesign" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="Sass" alt="Sass" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="tailwindcss" alt="tailwindcss" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" title="Jest" **alt="Jest" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
@@ -52,7 +54,7 @@ and more other
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Getmenn&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
-
+<!---
 ### ✔️ My projects : 
 
 #### New:
@@ -74,9 +76,8 @@ and more other
 
 ["Certificate Generator"](https://cert.skroy.ru) | (Internship project) 
 
----
-<!---
-### :writing_hand: My resume : [Resume](https://drive.google.com/file/d/1map1SOfctJz2PF4TOLtLiXBRFfBIieT5/view?usp=sharing)
+
+### :writing_hand: My resume : [Resume]()
 -->
 
 
