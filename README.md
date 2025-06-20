@@ -54,19 +54,24 @@ and more other
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Getmenn&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
-<!---
+
 ### ✔️ My projects : 
 
-#### New:
-
-["Learning project"](https://github.com/Getmenn/production-project) | (Personal | Learning project)
+// There are no links to government projects, but I can tell you about them
 
 ["Clicktoguide"](https://clicktoguide.com/) | (Freelancing project)
 
 ["Сhery"](https://www.chery.ru/) | (Freelancing project (small participation))
 
+["newsport"](https://newsport.72to.ru/sign-in) | (Work)
 
+["edo"](https://edo.72to.ru/) | (Work)
+
+
+
+<!---
 #### Old projects:
+["Learning project"](https://github.com/Getmenn/production-project) | (Personal | Learning project)
 
 ["Restaurant"](https://github.com/Getmenn/APPTRIX) | (Test project)
 
