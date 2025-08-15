@@ -63,9 +63,13 @@ and more other
 
 ["Сhery"](https://www.chery.ru/) | (Freelancing project (small participation))
 
-["newsport"](https://newsport.72to.ru/sign-in) | (Work)
+["Newsport"](https://newsport.72to.ru/sign-in) | (Work)
 
-["edo"](https://edo.72to.ru/) | (Work)
+["Edo"](https://edo.72to.ru/) | (Work)
+
+["Efir landing"](https://efir-it.ru/) | (Work)
+
+["Efir site"](https://work.efir-it.ru/auth) | (Work)
 
 
 
